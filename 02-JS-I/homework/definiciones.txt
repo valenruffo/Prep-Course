@@ -1,0 +1,5 @@
+Variables: almacenamiento donde guardar datos ya sean mediante caracteres o numeros.
+Strings: Son cadenas de textos, son un conjunto de palabras o letras.
+Funciones: Sirven para guardar un algoritmo/funcion(pasos para llegar a una solucion) que luego puede ser llamada para no repetir codigo y optimizarlo. Para mostrar un resultado debemos hacer mediante la funcion 'return'.
+Declaraciones 'if': es parte de la condicion, debemos utilizarlo si queremos decir ,por ejemplo, que si un numero es mayor que otro mostranos true, y en el caso contrario false.
+Valores booleanos: estos valores es como decir 'si' o 'no', cuando el 'if' es falso dentro de la maquina sera 'false' y si es verdadero sera 'true'
